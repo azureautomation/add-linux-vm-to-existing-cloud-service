@@ -1,0 +1,20 @@
+{
+    "Author": "Timothy Mukaibo",
+    "ContentSize": 2448,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/add-linux-vm-to-existing-cloud-service/master/W-CreateVM.ps1",
+    "DownloadCount": 1858,
+    "Id": "Add-Linux-VM-to-existing-4999211d",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 446,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2014-4-18T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Use this Azure Automation Runbook to create a Linux guest in an existing Cloud Service. You need to use the \"Connect to an Azure Subscription\" Runbook too for this solution to work.",
+    "Title": "Add Linux VM to existing Cloud Service",
+    "UpdatedDate": "2014-4-18T00:00:00",
+    "Url": "https://github.com/azureautomation/add-linux-vm-to-existing-cloud-service",
+    "UserTags": ""
+}
